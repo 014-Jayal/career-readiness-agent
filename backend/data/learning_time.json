@@ -1,0 +1,14 @@
+{
+  "statistics": {
+    "beginner_weeks": 4,
+    "intermediate_weeks": 6
+  },
+  "data analysis": {
+    "beginner_weeks": 3,
+    "intermediate_weeks": 4
+  },
+  "sql": {
+    "beginner_weeks": 3,
+    "intermediate_weeks": 4
+  }
+}

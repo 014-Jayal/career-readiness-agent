@@ -1,0 +1,28 @@
+{
+  "data_scientist": {
+    "required_skills": [
+      "python",
+      "statistics",
+      "machine learning",
+      "sql",
+      "data analysis"
+    ]
+  },
+  "backend_developer": {
+    "required_skills": [
+      "python",
+      "fastapi",
+      "sql",
+      "git",
+      "docker"
+    ]
+  },
+  "frontend_developer": {
+    "required_skills": [
+      "html",
+      "css",
+      "javascript",
+      "react"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data_scientist": {
+    "high": ["python", "machine learning", "statistics"],
+    "medium": ["sql", "data analysis"],
+    "low": ["docker", "git"]
+  },
+  "backend_developer": {
+    "high": ["python", "fastapi"],
+    "medium": ["sql", "docker"],
+    "low": ["git"]
+  }
+}
